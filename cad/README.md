@@ -5,7 +5,7 @@ Se debe especificar la(s) materialidad(es) y planimetrías de ensamble o proceso
 
 Estructura
 
-Dibujos en Fusion 360 de la estructura del totem y los elementos que conforman la secuencialidad del movimiento.
+Dibujos en Fusion 360 de la estructura del totem y los elementos que conforman la secuencialidad del movimiento. Las piezas que envuelven a los ejes de giro son realizadas con un terciado de 3 mm, cortadora láser.
 
 ![imagen](https://wiki.ead.pucv.cl/images/1/14/Fusion360_movimientoondulatorio1.jpg)
 ![imagen2](https://wiki.ead.pucv.cl/images/7/76/Fusion360_movimientoondulatoriosegundo.jpg)

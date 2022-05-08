@@ -7,4 +7,5 @@ Se debe especificar la(s) materialidad(es) y planimetrías de ensamble o proceso
 ![imagen2](https://wiki.ead.pucv.cl/images/7/76/Fusion360_movimientoondulatoriosegundo.jpg)
 ![imagen3](https://wiki.ead.pucv.cl/images/d/d0/Fusion360_movimientoondulatoriotercero.jpg)
 ![imagen4](https://wiki.ead.pucv.cl/images/9/91/Plano_frontal_forma_tela1.jpg)
-!(
+![imagen5](https://wiki.ead.pucv.cl/Archivo:Isometria_forma_tela2.jpg)
+![imagen6](https://wiki.ead.pucv.cl/images/e/e0/Tuboisometriatela3.jpg)

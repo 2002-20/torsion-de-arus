@@ -7,7 +7,7 @@ Se debe especificar la(s) materialidad(es) y planimetrías de ensamble o proceso
 ![imagen2](https://wiki.ead.pucv.cl/images/7/76/Fusion360_movimientoondulatoriosegundo.jpg)
 ![imagen3](https://wiki.ead.pucv.cl/images/d/d0/Fusion360_movimientoondulatoriotercero.jpg)
 
-**Telas
+Telas
 
 La estructura de la propuesta tendrá la envolvencia de una tela de lycra fina en los soportes con las piezas moldeadas y dispuestas secuencialmente. Esta posee las cualidades adecuada para su propósito; es ligera, delgada, sin texturas, elasticada y color blanco.
 

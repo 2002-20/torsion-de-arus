@@ -1,4 +1,4 @@
-# Torsión de Arus
+# Torsión de Aruz
 ## Tiempo ondulatorio en la envolvencia de una tensión regulada
 
 ![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale)

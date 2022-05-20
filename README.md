@@ -21,10 +21,10 @@ Sus gestos ondulados armónicos envueltos en ondas en torsión rítmica, produce
 
 Gestos de movimientos sinuosos secuenciales que se sincronizan en simultaneidad, un pulso de ondulaciones que producen ciclos. Una cadencia ondulatoria desplegándose en un eje de equilibro en las distintas posiciones en transición, envolviendo a un cuerpo en tensión en búsqueda del encuentro con su balance.
 
-##Carpetas de archivos
-Carpeta CAD se encuentran los archivos de modelado 3D, dibujos y archivos autocad.
-Carpeta CAM se encuentran los archivos para usar en máquina laser y modelado 3D para impresión. 
-Carpeta INO están los códigos necesarios para poder programar las luces LED y motor stepper. 
+## Carpetas de archivos
+- Carpeta CAD se encuentran los archivos de modelado 3D, dibujos y archivos autocad.
+- Carpeta CAM se encuentran los archivos para usar en máquina laser y modelado 3D para impresión. 
+- Carpeta INO están los códigos necesarios para poder programar las luces LED y motor stepper. 
 
 ## Herramientas y materiales
 - Junquillos 2x2cm

@@ -7,7 +7,8 @@ En este `README.md` incluir todas las especificaciones de placa e incorporar la 
 
 ## programacion stepper
 
-"
+``
+
 /*
  * Simple demo, should work with any driver board
  *
@@ -94,8 +95,8 @@ else {
 */
 }
 
-"
 
+``
 
 ## Programación leds 
   

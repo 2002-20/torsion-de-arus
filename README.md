@@ -44,7 +44,7 @@ Carpeta INO están los códigos necesarios para poder programar las luces LED y 
 - corchetera
 - serrucho costilla
 - destornillador de cruz y paleta
-- taladro
+- taladro con percutor
 - escuadra
 - nivel
 - pintura blanca en spray

@@ -3,9 +3,11 @@ Archivos de Arduino
 
 En este `README.md` incluir todas las especificaciones de placa e incorporar la esquemática con imagen y/o link a TinkerCad.
 
+![esto es una programacion](https://repository-images.githubusercontent.com/489810453/7d56fa02-4adc-4528-b402-ade327c39123)
+
 ## programacion stepper
 
-
+"
 /*
  * Simple demo, should work with any driver board
  *
@@ -92,7 +94,7 @@ else {
 */
 }
 
-
+"
 
 
 ## Programación leds 

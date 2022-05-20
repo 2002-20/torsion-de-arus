@@ -48,6 +48,8 @@ Carpeta INO están los códigos necesarios para poder programar las luces LED y 
 - escuadra
 - nivel
 - pintura blanca en spray
+- cortadora laser
+- impresora 3D
 
 ## Materiales electrónicos
 - 2 Arduino Uno

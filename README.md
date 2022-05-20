@@ -26,7 +26,7 @@ Carpeta CAD se encuentran los archivos de modelado 3D, dibujos y archivos autoca
 Carpeta CAM se encuentran los archivos para usar en máquina laser y modelado 3D para impresión. 
 Carpeta INO están los códigos necesarios para poder programar las luces LED y motor stepper. 
 
-##Herramientas y materiales
+## Herramientas y materiales
 - Junquillos 2x2cm
 - MDF
 - Adoquín de concreto
@@ -49,7 +49,7 @@ Carpeta INO están los códigos necesarios para poder programar las luces LED y 
 - nivel
 - pintura blanca en spray
 
-##Materiales electrónicos
+## Materiales electrónicos
 - 2 Arduino Uno
 - Cables de telefono
 - cinta de 5mts. de luces led de 12v.

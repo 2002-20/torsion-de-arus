@@ -99,6 +99,9 @@ else {
 ```
 
 ## Programación leds 
+
+```
+  
   
   
   #include <Adafruit_NeoPixel.h>
@@ -209,3 +212,4 @@ void loop() {
    
    
    
+```

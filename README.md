@@ -54,7 +54,7 @@ Gestos de movimientos sinuosos secuenciales que se sincronizan en simultaneidad,
 ## Materiales electrónicos
 - 2 Arduino Uno
 - Cables de telefono
-- cinta de 5mts. de luces led de 12v.
+- cinta de 5mts. de luces led digitales de 12v.
 - modulo joystick
 - Motor servo
 - Fuente de poder

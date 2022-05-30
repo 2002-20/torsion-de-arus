@@ -7,7 +7,7 @@ https://mail66491.autodesk360.com/g/projects/20220419518261676/data/dXJuOmFkc2su
 
 ## Planimetria
 
-![esto es una imagen](https://repository-images.githubusercontent.com/489810453/2245d65c-d58a-458f-b290-ce38d8ab61bf)
+![esto es una imagen](https://repository-images.githubusercontent.com/489810453/966faac0-d8b0-4c1d-bf8f-b8359c3e1e3c)
 
 ## Estructura
 

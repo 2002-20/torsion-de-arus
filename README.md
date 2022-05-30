@@ -1,7 +1,7 @@
 # Torsión de Aruz
 ## Tiempo ondulatorio en la envolvencia de una tensión regulada
 
-![Foto Representativa del Proyecto](https://repository-images.githubusercontent.com/489810453/abda280b-31db-4217-a3ac-be093c1e4c06)
+![Foto Representativa del Proyecto](https://repository-images.githubusercontent.com/489810453/966faac0-d8b0-4c1d-bf8f-b8359c3e1e3c)
 
 ## Objetivo
 
